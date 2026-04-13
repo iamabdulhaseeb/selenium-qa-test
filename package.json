@@ -1,0 +1,16 @@
+{
+  "name": "selenium-testing-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chromedriver": "^147.0.2",
+    "selenium-webdriver": "^4.43.0"
+  }
+}
